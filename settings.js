@@ -31,7 +31,7 @@ global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = 'MP-KING'
 global.author = 'SARRUI NO_NAME'
-global.sessionName = 'session'
+global.sessionName = 'U0dNZVJIbWk='
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
