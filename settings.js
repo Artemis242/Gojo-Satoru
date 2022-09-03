@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['242065055874']
-global.premium = ['242065055874']
-global.ownernomer = '242065055874'
+global.owner = ['242053725924']
+global.premium = ['242053725924']
+global.ownernomer = '242053725924'
 global.ownername = 'MP-KING '
 global.botname = 'SARRUI NO_NAME'
 global.footer = '©NexusNwInc.'
@@ -31,7 +31,7 @@ global.sc = 'https://github.com/Artemis242/Gojo-Satoru'
 global.myweb = 'https://chat.whatsapp.com/LejhXWCHwubJKeNQniqh15'
 global.packname = 'MP-KING'
 global.author = 'SARRUI NO_NAME'
-global.sessionName = 'RGNCQ01BN24='
+global.sessionName = 'session id'
 global.prefa = ['','!','.','🔆','😈','🗿']
 global.sp = '⭔'
 global.mess = {
